@@ -14,7 +14,8 @@ public class StudentInfo {
         // Объявление переменной для хранения образовательной программы
         String program = "Информационные системы";
 
-        String  lastName = "Baktbekov"
+        String  lastName = "Baktbekov";
+
 
         // Вывод заголовка в консоль
         System.out.println("=== Информация о студенте ===");
