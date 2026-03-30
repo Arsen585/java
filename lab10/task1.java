@@ -21,7 +21,7 @@ public class task1 extends JPanel {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("Shapes");
-        task1  panel = new  task1 ();
+        task1 panel = new task1();
 
         frame.add(panel);
         frame.setSize(400, 300);
